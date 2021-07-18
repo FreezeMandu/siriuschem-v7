@@ -1,3 +1,0 @@
-font: tech
-title: ??px
-version: 14px

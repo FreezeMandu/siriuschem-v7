@@ -1,0 +1,4 @@
+font: tech
+title: ??px
+version: 14px
+icon color: #98ffa9 50%
