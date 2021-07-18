@@ -1,0 +1,26 @@
+{
+ "name": "siriuschem-v7",
+ "displayName": "Siriuschem V7",
+ "author": "Sirius",
+ "version": "0.1",
+ "minGameVersion": "126",
+ "description": "
+    Search 'Sirius' in Schematics!
+    Tag: Sirius
+
+    AB: AirBlast drill 
+    BS: Black Sand 
+    WS: White sand 
+    NW: Need Water 
+    EW: External Water
+    POD: Phased Over Drive
+    OD: Over Drive
+    ODD: Over Drive Dome
+    WEX: Water EXtractor
+    OEX: Oil EXtractor
+
+    Sirius Schem Youtube link
+
+    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ",
+ "hidden": "true"
+}
