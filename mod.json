@@ -1,13 +1,8 @@
 {
  "name": "siriuschem-v7",
  "displayName": "Siriuschem V7",
-<<<<<<< HEAD
- "author": "Sirius(&Mandu)",
- "version": "0.41",
-=======
  "author": "Sirius&Mandu",
  "version": "0.41",
->>>>>>> 3f7b465af37d5d12de20f8a106903fb41322e162
  "minGameVersion": "128",
  "description": "
     Search 'Sirius' in Schematics!
